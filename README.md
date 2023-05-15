@@ -6,7 +6,7 @@ Web Developer and Designer
 
 * 🌍  I'm based in Gujrat
 * ✉️  You can contact me at [meetpanchal194@gmail.com](mailto:meetpanchal194@gmail.com)
-* 🧠  I'm learning React native
+* 🧠  I'm learning Angular
 
 ### Skills
 
